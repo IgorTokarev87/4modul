@@ -5,3 +5,5 @@ def strocounter(s):# 0(N)
     for sym, count in syms_counter.items():
         print(sym, count)
 strocounter('adgfaaa')
+
+print (31232412424)
